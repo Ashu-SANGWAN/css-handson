@@ -41,4 +41,8 @@ h2{
     background-color: yellow;
     font-weight: bold;
     text-decoration:none;
+     font-style: italic;   
+}
+a:link{ 
+    text-decoration: none;
 }
