@@ -1,0 +1,44 @@
+h1{
+    color: red
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+.list1{
+    color: maroon;
+    line-height: 20px;
+}
+.first{
+    color: maroon;
+    text-decoration: line-through;
+    font-weight: 50px;
+}
+.second{color: maroon;
+    font-weight: 20px;
+    background-color: yellow;
+    font-weight: bold;
+}
+.third{
+    color: maroon;
+    font-style: italic;
+    text-decoration: underline;
+}
+.container{
+    color: maroon;
+    line-height: 40px;
+}
+.container2{
+    color: maroon;
+    letter-spacing: 5px;
+}
+.container3{
+    color: maroon;
+    font
+}
+.th{
+    color: red;
+    background-color: yellow;
+    font-weight: bold;
+    text-decoration:none;
+}
